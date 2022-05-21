@@ -9,7 +9,7 @@ I've been a fan of computer technologies since the day I was born! As someone wh
 * 🌍  I'm based in Istanbul
 * 🖥️  See my portfolio at [My Portfolio](http://cv.yasarabi.me/)
 * ✉️  You can contact me at [yasar4726@gmail.com](mailto:yasar4726@gmail.com)
-* 🧠  I'm learning React JS
+* 🧠  I'm learning React JS & TypeScript
 * ⚡  I'm a big Matrix Trilogy fan!
 
 ### Skills
